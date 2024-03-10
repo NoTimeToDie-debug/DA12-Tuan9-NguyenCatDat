@@ -1,4 +1,4 @@
-,Invoice ID,City,Customer type,Gender,Product_line,Unit_price,Quantity,Tax 5%,cogs,Total,Date,Time,Payment,Rating
+,Invoice_ID,City,Customer type,Gender,Product_line,Unit_price,Quantity,Tax 5%,cogs,Total,Date,Time,Payment,Rating
 0,750-67-8428,Hà Nội,Member,Nữ,Health and beauty,74.69,7,26.1415,522.83,548.97,1/5/19,13:08,Ewallet,6
 1,226-31-3081,TP HCM,Normal,Nữ,Electronic accessories,15.28,5,3.82,76.4,80.22,3/8/19,10:29,Cash,7
 2,631-41-3108,Hà Nội,Normal,Nam,Home and lifestyle,46.33,7,16.2155,324.31,340.53,3/3/19,13:23,Credit card,6
